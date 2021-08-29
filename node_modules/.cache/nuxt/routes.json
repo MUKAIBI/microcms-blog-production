@@ -1,0 +1,59 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/404.vue",
+    "chunkName": "pages/404",
+    "url": "/404",
+    "_name": "_8626173c"
+  },
+  {
+    "name": "draft",
+    "path": "/draft",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/draft/index.vue",
+    "chunkName": "pages/draft/index",
+    "url": "/draft",
+    "_name": "_1810ae0e"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/search/index.vue",
+    "chunkName": "pages/search/index",
+    "url": "/search",
+    "_name": "_39baeb1e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_59371a7c"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/_slug/index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_5c1248b7"
+  },
+  {
+    "path": "/page/:id",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/index.vue",
+    "name": "pages",
+    "_name": "_59371a7c"
+  },
+  {
+    "path": "/category/:categoryId/page/:id",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/index.vue",
+    "name": "categories",
+    "_name": "_59371a7c"
+  },
+  {
+    "path": "*",
+    "component": "/Users/hikarikato/microcms-blog-production/pages/404.vue",
+    "name": "custom",
+    "_name": "_8626173c"
+  }
+]

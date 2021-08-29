@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>microCMSブログ</title>
+        <link>https://blog.microcms.io/feed.xml</link>
+        <description>microCMSはAPIベースの日本製ヘッドレスCMSです。本ブログはmicroCMSの開発メンバーがmicroCMSの使い方や技術的な内容を発信するブログです。</description>
+        <lastBuildDate>Sun, 29 Aug 2021 10:33:19 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[最新記事です]]></title>
+            <link>https://blog.microcms.io/amf5o9aa_u/</link>
+            <guid>https://blog.microcms.io/amf5o9aa_u/</guid>
+            <pubDate>Thu, 19 Aug 2021 00:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります11]]></title>
+            <link>https://blog.microcms.io/fymtwxuvk0/</link>
+            <guid>https://blog.microcms.io/fymtwxuvk0/</guid>
+            <pubDate>Tue, 17 Aug 2021 12:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります10]]></title>
+            <link>https://blog.microcms.io/l3zv0udio/</link>
+            <guid>https://blog.microcms.io/l3zv0udio/</guid>
+            <pubDate>Sun, 15 Aug 2021 05:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります9]]></title>
+            <link>https://blog.microcms.io/tbr28w7zf3q/</link>
+            <guid>https://blog.microcms.io/tbr28w7zf3q/</guid>
+            <pubDate>Sun, 15 Aug 2021 05:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります8]]></title>
+            <link>https://blog.microcms.io/0ck7t21nc/</link>
+            <guid>https://blog.microcms.io/0ck7t21nc/</guid>
+            <pubDate>Sun, 15 Aug 2021 05:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります7]]></title>
+            <link>https://blog.microcms.io/t0yy9brf8iku/</link>
+            <guid>https://blog.microcms.io/t0yy9brf8iku/</guid>
+            <pubDate>Sun, 15 Aug 2021 05:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります6]]></title>
+            <link>https://blog.microcms.io/r9j-ewj8py/</link>
+            <guid>https://blog.microcms.io/r9j-ewj8py/</guid>
+            <pubDate>Sun, 15 Aug 2021 05:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります5]]></title>
+            <link>https://blog.microcms.io/vi5spqyzen4/</link>
+            <guid>https://blog.microcms.io/vi5spqyzen4/</guid>
+            <pubDate>Sun, 15 Aug 2021 00:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります4]]></title>
+            <link>https://blog.microcms.io/r9havkv9l/</link>
+            <guid>https://blog.microcms.io/r9havkv9l/</guid>
+            <pubDate>Sun, 15 Aug 2021 00:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ブログのタイトルが入ります3]]></title>
+            <link>https://blog.microcms.io/zgzfxwrubelk/</link>
+            <guid>https://blog.microcms.io/zgzfxwrubelk/</guid>
+            <pubDate>Sat, 14 Aug 2021 12:17:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
